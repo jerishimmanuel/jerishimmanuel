@@ -17,6 +17,5 @@ Electronics and Communication Student | DSA in Java | Problem Solver | Building 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> 	<img height="30" src="https://img.shields.io/badge/AMD-PRO-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  	
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jerishimmanuel?ext=contest&theme=dark)](https://leetcode.com/jerishimmanuel)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/jerishimmanuel?theme=dark&font=Marcellus)
 [![Jerish Immanuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerishimmanuel&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
